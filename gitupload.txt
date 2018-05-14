@@ -1,2 +1,3 @@
 hi ... testing purpose
 after clone text file
+Commit through eclipse
